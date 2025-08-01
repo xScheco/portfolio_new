@@ -4,5 +4,9 @@
     "about": "Über mich",
     "projects": "Projekte",
     "contact": "Kontakt"
+  },
+  "home": {
+    "title": "Hallo, ich heiße",
+    "title_description": "Ich liebe es, Dinge voranzutreiben und immer Neues zu entdecken. Dabei setze ich hohe Standards für meine Projekte – weil gut einfach nicht genug ist."
   }
 }

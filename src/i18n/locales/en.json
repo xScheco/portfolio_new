@@ -4,5 +4,9 @@
     "about": "About me",
     "projects": "Projects",
     "contact": "Contact"
+  },
+  "home": {
+    "title": "Hello, I'm",
+    "title_description": "I love pushing things forward and always exploring new ideas. I hold high standards for my projects—because good is simply not enough."
   }
 }
