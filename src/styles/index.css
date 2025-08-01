@@ -1,0 +1,16 @@
+@import "tailwindcss";
+@import "./font_overpass.css";
+@import "./font_syne.css";
+
+@theme {
+  --color-primary: #fffcf3;
+  --color-heighlight: #00bc8f;
+  --font-overpass: Overpass, sans-serif;
+  --font-syne: Syne, sans-serif;
+  --color-radial-gradient: radial-gradient(
+    circle_at_top_right,
+    _#ffe1fb,
+    _#e1f4ff,
+    _#fef6e4
+  );
+}

@@ -1,0 +1,32 @@
+/* overpass-500 - latin */
+@font-face {
+  font-display: swap;
+  font-family: "Overpass";
+  font-style: normal;
+  font-weight: 500;
+  src: url("/fonts/overpass/overpass-v12-latin-500.woff2") format("woff2"),
+    url("/fonts/overpass/overpass-v12-latin-500.woff") format("woff"),
+    url("/fonts/overpass/overpass-v12-latin-500.ttf") format("truetype");
+}
+
+/* overpass-700 - latin */
+@font-face {
+  font-display: swap;
+  font-family: "Overpass";
+  font-style: normal;
+  font-weight: 700;
+  src: url("/fonts/overpass/overpass-v12-latin-700.woff2") format("woff2"),
+    url("/fonts/overpass/overpass-v12-latin-700.woff") format("woff"),
+    url("/fonts/overpass/overpass-v12-latin-700.ttf") format("truetype");
+}
+
+/* overpass-800 - latin */
+@font-face {
+  font-display: swap;
+  font-family: "Overpass";
+  font-style: normal;
+  font-weight: 800;
+  src: url("/fonts/overpass/overpass-v12-latin-800.woff2") format("woff2"),
+    url("/fonts/overpass/overpass-v12-latin-800.woff") format("woff"),
+    url("/fonts/overpass/overpass-v12-latin-800.ttf") format("truetype");
+}
