@@ -8,5 +8,11 @@
   "home": {
     "title": "Hallo, ich heiße",
     "title_description": "Ich liebe es, Dinge voranzutreiben und immer Neues zu entdecken. Dabei setze ich hohe Standards für meine Projekte – weil gut einfach nicht genug ist."
+  },
+  "aboutMe": {
+    "title": "Über mich",
+    "intro": "Hi, ich bin Marco aus Bernau bei Berlin – fasziniert von der Vielfalt des Lebens und der grenzenlosen Welt der IT. Was mich antreibt, ist die Möglichkeit, kreative Ideen in visuell ansprechende und benutzerfreundliche Webseiten und Anwendungen zu verwandeln, die Menschen begeistern.",
+    "philosophy": "Für mich ist Programmieren mehr als nur Code: Es ist die Kunst, smarte Lösungen zu finden und aus komplexen Herausforderungen etwas Einfaches und Intuitives zu schaffen. Dabei liebe ich es, Technik mit Kreativität zu verbinden und Projekte zum Leben zu erwecken.",
+    "workStyle": "Ob im Office oder Remote – ich arbeite fokussiert, flexibel und mit Freude am gemeinsamen Erfolg. Teamarbeit bedeutet für mich, wie ein passendes Puzzleteil zu wirken: gemeinsam etwas Großes zu schaffen, das mehr ist als die Summe seiner Teile. Immer offen für neue Ideen und Herausforderungen, erweitere ich ständig mein Wissen und meine Fähigkeiten."
   }
 }

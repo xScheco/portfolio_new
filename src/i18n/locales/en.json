@@ -8,5 +8,11 @@
   "home": {
     "title": "Hello, I'm",
     "title_description": "I love pushing things forward and always exploring new ideas. I hold high standards for my projects—because good is simply not enough."
+  },
+  "aboutMe": {
+    "title": "About me",
+    "intro": "Hi, I'm Marco from Bernau near Berlin – fascinated by the diversity of life and the boundless world of IT. What drives me is the opportunity to transform creative ideas into visually appealing and user-friendly websites and applications that inspire people.",
+    "philosophy": "For me, programming is more than just code: it's the art of finding smart solutions and creating something simple and intuitive out of complex challenges. I love combining technology with creativity and bringing projects to life.",
+    "workStyle": "Whether in the office or remotely, I work with focus and flexibility and enjoy shared success. For me, teamwork means fitting together like a puzzle piece: working together to create something great that is more than the sum of its parts. Always open to new ideas and challenges, I am constantly expanding my knowledge and skills."
   }
 }
